@@ -1,6 +1,4 @@
-package SingletonDesign.EagerLoading.DoubleCheckLooking;
-
-import javax.xml.datatype.DatatypeConstants;
+package SingletonDesign.DoubleCheckLooking;
 
 public class DatabaseConnection {
     private static DatabaseConnection databaseconnection = null;

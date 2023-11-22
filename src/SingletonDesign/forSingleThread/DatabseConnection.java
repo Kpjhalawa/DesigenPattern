@@ -1,6 +1,4 @@
-package SingletonDesign.EagerLoading.forSingleThread;
-
-import SingletonDesign.EagerLoading.DatabaseConnection;
+package SingletonDesign.forSingleThread;
 
 public class DatabseConnection {
     private static DatabseConnection databseConnection = null;
